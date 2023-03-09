@@ -12,7 +12,9 @@
     <code><img alt="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="30"></code>
     <code><img alt="Node.js" src="https://iconape.com/wp-content/png_logo_vector/node-js-2.png" width="50"></code>
     <code><img alt="Bootstrap" src="https://seeklogo.com/images/B/bootstrap-logo-69A1CCC10B-seeklogo.com.png" width="100"></code>
-    <code><img alt="Tailwind" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/2560px-Tailwind_CSS_logo.svg.png" width="180"></code>
+    <code><img alt="Tailwind" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/2560px-Tailwind_CSS_logo.svg.png" width="180">
+  </code>
+  <code><img alt="Angular" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/angular_icon_130993.png" width="50" </code>
 </h3>
 
 <h2><code>Actually...</code></h2>
