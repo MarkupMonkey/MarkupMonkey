@@ -5,7 +5,7 @@
 <h2 align="center"><b>a Jr Full Stack Developer</b></h2>
 
 
-<h3 align="center" >
+<h3 align="center" width="100vw">
   <code><img alt="Git" src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="70"></code>
     <code><img alt="Html5 CSS" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width="100" ></code>
     <code><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" width="100"></code>
