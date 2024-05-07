@@ -1,5 +1,5 @@
 # **Hello!** 🍌Happy to see you 👁 
-<h1 align="center"><img src="https://c.tenor.com/Mtt_u2FtYBkAAAAC/coffee-code.gif" width="70"> i'm Marco Moncada...<img src="https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" width="70" ><img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-183.gif" width="100"> </h1>
+<h1 align="center"><img src="https://c.tenor.com/Mtt_u2FtYBkAAAAC/coffee-code.gif" width="70"> i'm Marco Moncada...<img src="https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" width="70" ><img src="https://i.pinimg.com/originals/33/7a/f3/337af398877b856f25624144420a5230.gif" width="100"> </h1>
 
 
 <h2 align="center"><b>a Jr Full Stack Developer</b></h2>
